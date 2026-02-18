@@ -1,0 +1,5 @@
+{
+  "name": "Telconet AI",
+  "description": "A visual editor for Excel files containing image links, allowing specific column configuration and data modification.",
+  "requestFramePermissions": []
+}
